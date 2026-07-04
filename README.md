@@ -6,7 +6,7 @@ A console-based **Tic Tac Toe** game built in **Python** to strengthen my unders
 
 - 🎯 Interactive command-line gameplay
 - 👥 Human vs Human mode
-- 🤖 AI opponent using the Minimax algorithm *(if implemented)*
+- 🤖 AI opponent using the Minimax algorithm 
 - ✅ Input validation
 - 🏆 Winner & draw detection
 - 🧩 Object-Oriented Programming (OOP)
@@ -19,17 +19,6 @@ A console-based **Tic Tac Toe** game built in **Python** to strengthen my unders
 
 ## 🚀 Getting Started
 
-Clone the repository:
-
-```bash
-git clone https://github.com/zohanaeem1513/Tic-Tac-Toe.git
-```
-
-Run the game:
-
-```bash
-python game.py
-```
 
 ## 📚 What I Learned
 
@@ -38,6 +27,7 @@ python game.py
 - Object-Oriented Programming
 - Problem Solving
 - Git & GitHub
+- Minimax algorithm 
 
 ## 👨‍💻 Author
 
